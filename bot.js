@@ -140,7 +140,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/bE54fhV :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/fzm9v8 :scroll: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -151,7 +151,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/bE54fhV :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/fzm9v8 :scroll: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -162,7 +162,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/bE54fhV :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/fzm9v8 :scroll: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -173,7 +173,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/bE54fhV :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/fzm9v8 :scroll: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -184,7 +184,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/bE54fhV :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/fzm9v8 :scroll: **`)
    message.author.sendEmbed(embed)
    
    }
