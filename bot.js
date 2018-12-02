@@ -2346,7 +2346,7 @@ let args = message.content.split(" ").slice(1).join(" ");
 
 
 
-client.users.get("396958215377780747").send(
+client.users.get("400692843582062604").send(
     "\n" + "**" + "● السيرفر :" + "**" +
     "\n" + "**" + "» " + message.guild.name + "**" +
     "\n" + "**" + " ● المرسل : " + "**" +
@@ -2495,13 +2495,13 @@ client.on("guildMemberAdd", member => {
 })
 
 client.on('message', message => {
-        if (message.content === "-inv") {
+        if (message.content === "adadadasdawdasadadawdasdawdasadws") {
             if(!message.channel.guild) return;
         let embed = new Discord.RichEmbed()
         .setAuthor(` ${message.author.username} `, message.author.avatarURL)      
         .setTitle(`:small_orange_diamond: اضغط هنا `)
-        .setURL(`https://discordapp.com/api/oauth2/authorize?client_id=517327152740302850&permissions=8&scope=bot`)
-        .setThumbnail(" https://cdn.discordapp.com/attachments/516605361537548288/516620444036497409/fd352929b7e4c974.png")        
+        .setURL(`google.com`)
+        .setThumbnail(" ")        
      message.channel.sendEmbed(embed);
        }
    });
@@ -2832,7 +2832,7 @@ message.channel.stopTyping()
       
      
    client.on('message', message => {
-     if (message.content === "-support") {
+     if (message.content === "-asawsasawdasawdasasa") {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
